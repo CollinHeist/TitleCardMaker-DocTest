@@ -1,2 +1,20 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
 
+# pyenv
+.python-version
+
+# PEP 582
+__pypackages__/
+
+source/
+logs/
+fonts/
+modules/.objects/
+*._*
+*.yml
+*.yaml
+*.prof
 .DS_Store

@@ -1,0 +1,22 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+regex = "*"
+num2words = "*"
+pyyaml = "*"
+requests = "*"
+titlecase = "*"
+tqdm = "*"
+fonttools = "*"
+plexapi = "==4.11.2"
+tenacity = "*"
+tinydb = "*"
+schedule = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
